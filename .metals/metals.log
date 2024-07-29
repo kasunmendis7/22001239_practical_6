@@ -151,3 +151,1185 @@ WARNING: Unmatched cancel notification for request id 989
 2024.07.29 05:07:25 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.78s[0m
 2024.07.29 05:08:06 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
 2024.07.29 05:08:06 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.84s[0m
+2024.07.29 05:32:39 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:32:40 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 1.47s[0m
+2024.07.29 05:32:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:32:45 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 1.42s[0m
+2024.07.29 05:32:46 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:32:46 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.77s[0m
+2024.07.29 05:33:02 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:33:02 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.78s[0m
+2024.07.29 05:34:34 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:34:35 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 1.17s[0m
+2024.07.29 05:34:35 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:34:36 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.72s[0m
+2024.07.29 05:34:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:34:43 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.27s[0m
+Jul 29, 2024 5:34:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1290
+2024.07.29 05:34:51 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:34:51 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.33s[0m
+2024.07.29 05:35:57 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:35:58 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 1.11s[0m
+2024.07.29 05:36:04 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:04 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:36:04 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.75s[0m
+2024.07.29 05:36:06 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:06 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.8s[0m
+2024.07.29 05:36:12 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:12 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.66s[0m
+2024.07.29 05:36:20 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:20 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.55s[0m
+2024.07.29 05:36:35 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:35 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.53s[0m
+2024.07.29 05:36:41 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:41 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.52s[0m
+2024.07.29 05:36:45 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:45 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.54s[0m
+2024.07.29 05:36:58 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:36:58 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.49s[0m
+Jul 29, 2024 5:37:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1844
+2024.07.29 05:37:20 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:20 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.67s[0m
+2024.07.29 05:37:24 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:24 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.5s[0m
+Jul 29, 2024 5:37:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2021
+2024.07.29 05:37:40 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:40 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.58s[0m
+2024.07.29 05:37:42 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:42 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:37:42 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.66s[0m
+2024.07.29 05:37:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:43 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:37:49 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:49 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.19s[0m
+Jul 29, 2024 5:37:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2136
+2024.07.29 05:37:54 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:54 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.19s[0m
+2024.07.29 05:37:55 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:55 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:37:58 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:37:58 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 05:38:00 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:38:00 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.27s[0m
+2024.07.29 05:38:05 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:38:05 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.66s[0m
+2024.07.29 05:38:52 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:38:52 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.9s[0m
+2024.07.29 05:42:29 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:42:29 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.33s[0m
+2024.07.29 05:42:49 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:42:49 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.24s[0m
+2024.07.29 05:42:54 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:42:54 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.33s[0m
+Jul 29, 2024 5:43:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2346
+2024.07.29 05:43:08 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:43:08 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:43:15 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:43:15 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:43:34 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:43:34 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.23s[0m
+2024.07.29 05:43:45 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:43:45 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.7s[0m
+2024.07.29 05:43:47 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:43:47 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.69s[0m
+2024.07.29 05:44:02 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:02 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.74s[0m
+2024.07.29 05:44:04 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:04 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.45s[0m
+2024.07.29 05:44:21 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:21 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.55s[0m
+2024.07.29 05:44:22 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:22 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:44:36 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:36 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.26s[0m
+2024.07.29 05:44:42 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:42 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.27s[0m
+2024.07.29 05:44:51 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:51 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.24s[0m
+2024.07.29 05:44:57 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:44:57 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.19s[0m
+2024.07.29 05:45:04 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:04 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:45:19 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:19 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.19s[0m
+2024.07.29 05:45:26 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:26 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:45:30 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:30 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.25s[0m
+2024.07.29 05:45:37 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:37 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:45:39 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:39 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:45:41 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:41 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.25s[0m
+2024.07.29 05:45:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:43 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.29s[0m
+2024.07.29 05:45:44 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:44 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:45:46 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:46 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:45:56 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:56 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:45:58 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:45:58 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.15s[0m
+2024.07.29 05:46:03 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:03 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.23s[0m
+2024.07.29 05:46:08 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:08 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:46:10 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:10 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:46:22 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:22 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:46:23 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:23 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:46:28 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:28 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.47s[0m
+2024.07.29 05:46:29 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:29 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.23s[0m
+2024.07.29 05:46:32 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:32 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.19s[0m
+2024.07.29 05:46:36 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:36 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.3s[0m
+2024.07.29 05:46:38 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:38 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.25s[0m
+2024.07.29 05:46:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:43 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.17s[0m
+2024.07.29 05:46:44 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:44 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:46:46 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:46 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.17s[0m
+2024.07.29 05:46:48 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:48 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:46:51 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:51 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.22s[0m
+2024.07.29 05:46:54 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:46:54 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.19s[0m
+2024.07.29 05:47:03 ERROR scalafmt: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala:70: error: [dialect scala3] illegal start of simple expression
+            else if()
+                    ^[0m
+2024.07.29 05:47:06 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:06 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+Jul 29, 2024 5:47:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3284
+Jul 29, 2024 5:47:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3295
+2024.07.29 05:47:13 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:13 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.53s[0m
+2024.07.29 05:47:15 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:15 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:47:21 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:21 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.57s[0m
+2024.07.29 05:47:24 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:24 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.55s[0m
+2024.07.29 05:47:27 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:27 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:27 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.27s[0m
+2024.07.29 05:47:27 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:28 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:28 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.23s[0m
+2024.07.29 05:47:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:30 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:31 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:32 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:33 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:34 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:35 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:36 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:37 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:38 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:40 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:40 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:47:40 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.55s[0m
+2024.07.29 05:47:41 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:41 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.63s[0m
+2024.07.29 05:47:48 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:48 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.5s[0m
+2024.07.29 05:47:51 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:51 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.46s[0m
+Jul 29, 2024 5:47:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3566
+2024.07.29 05:47:56 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:56 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.17s[0m
+2024.07.29 05:47:57 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:57 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:47:59 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:47:59 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.54s[0m
+2024.07.29 05:48:11 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:48:11 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.4s[0m
+2024.07.29 05:48:32 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:48:32 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.45s[0m
+2024.07.29 05:48:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:48:43 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.53s[0m
+2024.07.29 05:48:45 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:48:46 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:48:45 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.74s[0m
+2024.07.29 05:48:47 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:48:47 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.58s[0m
+2024.07.29 05:49:20 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:49:20 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.5s[0m
+2024.07.29 05:49:21 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:49:21 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.62s[0m
+2024.07.29 05:49:24 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:49:24 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.43s[0m
+2024.07.29 05:49:37 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:49:37 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.47s[0m
+2024.07.29 05:49:39 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:49:39 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.49s[0m
+2024.07.29 05:49:55 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:49:55 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:49:57 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:49:57 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.15s[0m
+2024.07.29 05:50:01 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:01 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:50:04 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:04 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.48s[0m
+2024.07.29 05:50:07 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:07 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.51s[0m
+2024.07.29 05:50:08 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:08 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.53s[0m
+2024.07.29 05:50:16 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:16 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:50:34 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:34 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.66s[0m
+2024.07.29 05:50:38 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:38 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.24s[0m
+2024.07.29 05:50:39 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala[0m
+2024.07.29 05:50:40 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:50:40 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.48s[0m
+2024.07.29 05:51:34 INFO  Cancelling compilation on scala-cli server[0m
+2024.07.29 05:51:34 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:51:34 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.29 05:51:35 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.29 05:51:34 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.99s[0m
+2024.07.29 05:51:35 INFO  time: Imported build in 1.06s[0m
+2024.07.29 05:51:39 INFO  no build target found for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.29 05:51:39 INFO  running doctor check[0m
+2024.07.29 05:51:39 INFO  java targets: 22001239_Practical_6_f4dd477a3a, 22001239_Practical_6_f4dd477a3a-test[0m
+2024.07.29 05:51:40 INFO  time: code lens generation in 5.43s[0m
+2024.07.29 05:51:42 INFO  time: indexed workspace in 7.12s[0m
+Jul 29, 2024 5:52:25 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:52:25 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:52:25 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:52:25 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:52:25 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:52:25 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2024.07.29 05:52:34 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:52:34 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.25s[0m
+2024.07.29 05:52:38 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:52:38 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.46s[0m
+2024.07.29 05:52:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:52:43 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.49s[0m
+2024.07.29 05:52:46 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:52:46 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.75s[0m
+2024.07.29 05:52:47 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala[0m
+2024.07.29 05:52:47 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:52:47 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.54s[0m
+2024.07.29 05:53:00 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:53:00 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.45s[0m
+2024.07.29 05:53:05 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:53:05 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 05:53:07 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:53:07 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.44s[0m
+2024.07.29 05:53:25 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:53:25 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.44s[0m
+2024.07.29 05:53:30 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:53:30 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.4s[0m
+2024.07.29 05:53:35 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:53:35 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.39s[0m
+2024.07.29 05:54:00 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:00 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.41s[0m
+2024.07.29 05:54:04 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:04 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.46s[0m
+2024.07.29 05:54:13 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:13 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.43s[0m
+2024.07.29 05:54:17 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:17 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.45s[0m
+2024.07.29 05:54:22 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:22 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.39s[0m
+2024.07.29 05:54:53 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:53 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.55s[0m
+2024.07.29 05:54:55 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:55 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala[0m
+2024.07.29 05:54:55 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.29s[0m
+2024.07.29 05:54:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala[0m
+2024.07.29 05:54:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala[0m
+2024.07.29 05:54:56 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala[0m
+2024.07.29 05:54:57 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala[0m
+2024.07.29 05:54:58 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:54:58 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.45s[0m
+2024.07.29 05:55:05 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:05 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:55:10 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:10 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.43s[0m
+2024.07.29 05:55:12 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:12 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.46s[0m
+2024.07.29 05:55:16 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:16 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.42s[0m
+2024.07.29 05:55:21 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:21 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.36s[0m
+2024.07.29 05:55:25 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:25 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 05:55:31 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:31 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.34s[0m
+2024.07.29 05:55:33 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:33 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 05:55:36 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:36 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.36s[0m
+2024.07.29 05:55:39 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:39 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.47s[0m
+Jul 29, 2024 5:55:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4896
+2024.07.29 05:55:50 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:50 WARN  Could not load snapshot text for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala[0m
+2024.07.29 05:55:50 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.5s[0m
+2024.07.29 05:55:53 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:55:53 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.38s[0m
+2024.07.29 05:57:12 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+Jul 29, 2024 5:57:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5052
+2024.07.29 05:57:12 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.68s[0m
+2024.07.29 05:57:15 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:15 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.38s[0m
+2024.07.29 05:57:23 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:23 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.41s[0m
+Jul 29, 2024 5:57:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5146
+Jul 29, 2024 5:57:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5173
+2024.07.29 05:57:30 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:30 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.41s[0m
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 29, 2024 5:57:36 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+java.nio.file.NoSuchFileException: /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/question1.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3273)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:222)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:222)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:44)
+	at dotty.tools.pc.utils.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:283)
+	at dotty.tools.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:129)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:129)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:363)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2024.07.29 05:57:41 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:41 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.35s[0m
+2024.07.29 05:57:43 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:43 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.19s[0m
+2024.07.29 05:57:44 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:44 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.47s[0m
+2024.07.29 05:57:49 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:49 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.14s[0m
+2024.07.29 05:57:51 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:51 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.42s[0m
+2024.07.29 05:57:52 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:57:52 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.39s[0m
+2024.07.29 05:58:13 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:13 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 05:58:17 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:17 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.32s[0m
+2024.07.29 05:58:22 ERROR Failed to tokenize input for semantic tokens for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala
+scala.meta.tokenizers.TokenizeException: <input>:99: error: invalid escape character
+        print("Inventory 1 or 2? \ Enter the number: ")
+                                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:690)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:678)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:700)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:504)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:561)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.07.29 05:58:24 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:24 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 05:58:29 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:29 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 05:58:30 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:31 ERROR Failed to tokenize input for semantic tokens for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala
+scala.meta.tokenizers.TokenizeException: <input>:99: error: unclosed string literal
+        print("Inventory 1 or 2? 
+              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:561)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.07.29 05:58:30 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.59s[0m
+2024.07.29 05:58:31 ERROR Failed to tokenize input for semantic tokens for /mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/Question1.scala
+scala.meta.tokenizers.TokenizeException: <input>:99: error: unclosed string literal
+        print("Inventory 1 or 2? 
+              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:561)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+[0m
+2024.07.29 05:58:33 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:33 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.36s[0m
+2024.07.29 05:58:34 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:34 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.36s[0m
+2024.07.29 05:58:51 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:51 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.18s[0m
+2024.07.29 05:58:54 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:54 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.16s[0m
+2024.07.29 05:58:58 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:58:58 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:59:00 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:00 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.22s[0m
+2024.07.29 05:59:03 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:03 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:59:14 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:14 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+2024.07.29 05:59:16 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:16 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.15s[0m
+2024.07.29 05:59:18 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:18 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 05:59:20 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:20 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.2s[0m
+Jul 29, 2024 5:59:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5620
+2024.07.29 05:59:22 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:22 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.15s[0m
+2024.07.29 05:59:24 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:24 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.14s[0m
+2024.07.29 05:59:25 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:25 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.29s[0m
+2024.07.29 05:59:28 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:28 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.15s[0m
+2024.07.29 05:59:36 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:36 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.23s[0m
+2024.07.29 05:59:47 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:47 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.22s[0m
+Jul 29, 2024 5:59:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5742
+2024.07.29 05:59:53 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 05:59:53 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.21s[0m
+2024.07.29 06:00:03 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 06:00:03 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.38s[0m
+Jul 29, 2024 6:00:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5823
+2024.07.29 06:00:23 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 06:00:23 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.37s[0m
+2024.07.29 06:05:12 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 06:05:12 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.24s[0m
+2024.07.29 06:05:26 INFO  compiling 22001239_practical_6_f4dd477a3a (1 scala source)[0m
+2024.07.29 06:05:26 INFO  time: compiled 22001239_Practical_6_f4dd477a3a in 0.41s[0m
+2024.07.29 06:06:11 INFO  Shutting down server[0m
+2024.07.29 06:06:11 INFO  shutting down Metals[0m
+2024.07.29 06:06:11 INFO  BSP server: Jul 29, 2024 6:06:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification[0m
+2024.07.29 06:06:11 INFO  BSP server: WARNING: Notification threw an exception: {[0m
+2024.07.29 06:06:11 INFO  BSP server:   "jsonrpc": "2.0",[0m
+2024.07.29 06:06:11 INFO  Shut down connection with build server.[0m
+2024.07.29 06:06:11 INFO  BSP server:   "method": "build/exit",[0m
+2024.07.29 06:06:11 INFO  BSP server:   "params": null[0m
+2024.07.29 06:06:11 INFO  BSP server: }[0m
+2024.07.29 06:06:11 INFO  BSP server: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)[0m
+2024.07.29 06:06:11 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)[0m
+2024.07.29 06:06:11 INFO  Exiting server[0m

@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/kasun_mendis/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1/.scala-build/ide-envs.json",
+    "/mnt/a66ad743-1601-4348-99ee-1e8f5b440f29/UCSC/SCS 2204 - Functional Programming/Practicals - Viva/22001239_Practical_6/Question1"
+  ],
+  "version": "1.3.2",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
